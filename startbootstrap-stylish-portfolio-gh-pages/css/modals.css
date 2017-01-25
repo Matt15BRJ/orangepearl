@@ -48,3 +48,8 @@
     text-decoration: none;
     cursor: pointer;
 }
+
+.skill-item button {
+	color: #59544c;
+	
+}
