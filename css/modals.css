@@ -1,0 +1,55 @@
+.modal-header h3 {
+	text-align:center;
+}
+
+.modal-header {
+	text-align:center;
+	background-image:-webkit-linear-gradient(top, red, yellow);
+	background-image:-moz-linear-gradient(top, red, yellow);
+	background-image:-o-linear-gradient(top, red, yellow);
+	background-image:linear-gradient(to bottom, red, yellow);
+}
+
+.modal-body {
+	background-color: #273e99;
+	color: #fff;
+	border-color:#000;
+	text-align:left;
+	
+}
+
+.modal-footer {
+	background-color: #59544c;
+	border-color:#000;
+}
+
+.modal-footer button {
+	background-color:rgba(0,0,0,0.4);
+	border-color:#000;
+	color:#ffc266;
+}
+
+.modal-footer button:hover {
+	background-color:rgba(0,0,0,0.1);
+	border-color:#ffc266;
+}
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+	
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.skill-item button {
+	color: #59544c;
+	
+}
